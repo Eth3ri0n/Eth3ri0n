@@ -1,4 +1,4 @@
-<h1 align="center">echo("👋 Hello World !"), I'm Thierryno</h1>
+<h1 align="center">echo("👋 Hello World !")</h1>
 <h3 align="center">A passionate frontend developer and 3D artist from French</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eth3ri0n&label=Profile%20views&color=0e75b6&style=flat" alt="eth3ri0n" /> </p>
