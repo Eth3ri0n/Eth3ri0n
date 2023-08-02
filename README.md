@@ -1,6 +1,18 @@
 <h1 align="center">echo("👋 Hello World !")</h1>
 <h3 align="center">A passionate frontend developer and 3D artist from French</h3>
 
+## 😁 About Me 
+
+I'm **Thierryno**, I'm 21 and I come from France. :fr:
+
+I discovered ***3D modeling and Web development*** a long time ago almost 😁 and since then I'm passionate about it.
+
+I'm more interested in 3D modeling but I have a kink for Web development. I've been learning web development since I was in high-school and I'm now doing a [BUT MMI](https://www.onisep.fr/ressources/univers-formation/formations/Post-bac/but-metiers-du-multimedia-et-de-l-internet-parcours-creation-numerique) in France. 🎓
+
+## 🌠 My Words
+<p align="center">丿ㄩ丂〸 闩 尺闩𝓝ᗪㄖ爪 ᗪ尺🝗闩爪🝗尺
+"Ⲕⲉⲉⲣ 𝓵ⲟⲟⲕⲓⲛ𝓰 𐌵ⲣ ⲁⲛⲇ ⲙⲁⲕⲉ ⲧⲏⲉ ⲓⲛ𝓿ⲓ𝛓ⲓⲃ𝓵ⲉ ꞅⲉⲁ𝓵"</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eth3ri0n&label=Profile%20views&color=0e75b6&style=flat" alt="eth3ri0n" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, PHP, React, Vue, Python**
