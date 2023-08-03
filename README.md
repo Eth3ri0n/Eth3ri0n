@@ -1,6 +1,8 @@
 <h1 align="center">echo("👋 Hello World !")</h1>
 <h3 align="center">A passionate frontend developer and 3D artist from French</h3>
 
+<div> <img src="https://github.com/Eth3ri0n/Eth3ri0n/blob/ed7d08c18fd9a786f09a1847d1b3508e3774add9/images/Room_deviant.png" alt="3D Room" /> </div>
+
 ## 😁 About Me 
 
 I'm **Thierryno**, I'm 21 and I come from France. :fr:
