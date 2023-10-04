@@ -3,7 +3,7 @@
 
 <div> <img src="https://github.com/Eth3ri0n/Eth3ri0n/blob/ed7d08c18fd9a786f09a1847d1b3508e3774add9/images/Room_deviant.png" alt="3D Room" /> </div>
 
-## 😁 $\textcolor{Orange}{About\ Me}$
+😁 $\textcolor{Orange}{About\ Me}$
 
 I'm **Thierryno**, I'm 21 and I come from France. :fr:
 
@@ -11,7 +11,7 @@ I discovered ***3D modeling and Web development*** a long time ago almost 😁 a
 
 I'm more interested in 3D modeling but I have a kink for Web development. I've been learning web development since I was in high-school and I'm now doing a [BUT MMI](https://www.onisep.fr/ressources/univers-formation/formations/Post-bac/but-metiers-du-multimedia-et-de-l-internet-parcours-creation-numerique) in France. 🎓
 
-## 🌠 $\textcolor{orange}{My\ Words}$
+🌠 $\textcolor{orange}{My\ Words}$
 
 <p align="center"><strong>丿ㄩ丂〸 闩 尺闩𝓝ᗪㄖ爪 ᗪ尺🝗闩爪🝗尺
 "Ⲕⲉⲉⲣ 𝓵ⲟⲟⲕⲓⲛ𝓰 𐌵ⲣ ⲁⲛⲇ ⲙⲁⲕⲉ ⲧⲏⲉ ⲓⲛ𝓿ⲓ𝛓ⲓⲃ𝓵ⲉ ꞅⲉⲁ𝓵"</strong></p>
@@ -22,7 +22,7 @@ I'm more interested in 3D modeling but I have a kink for Web development. I've b
 
 - 📝 I regularly post my 3D models on [https://www.artstation.com/theristis](https://www.artstation.com/theristis)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, SCSS | SASS**
 
 <h3 align="left">Connect with me:</h3>
 
