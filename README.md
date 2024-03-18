@@ -24,7 +24,7 @@ Hi, my name is Thierryno, I come from France :fr:. I'm currently studying for a 
 <a href="https://linkedin.com/in/thierryno-randrianarisaina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thierryno-randrianarisaina" height="30" width="40" /></a>
 <a href="https://instagram.com/_t_h_e_r_i_s_t_i_s_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_t_h_e_r_i_s_t_i_s_" height="30" width="40" /></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eth3ri0n)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg' alt='artstation' height='40'>](https://artstation.com/theristis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/deviantart.svg' alt='deviantart' height='40'>](https://deviant.com/th3ristis)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eth3ri0n)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg' alt='artstation' height='40'>](https://artstation.com/theristis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/deviantart.svg' alt='deviantart' height='40'>](https://deviantart.com/th3ristis)  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eth3ri0n&show_icons=true&theme=synthwave&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="eth3ri0n" /></p>
